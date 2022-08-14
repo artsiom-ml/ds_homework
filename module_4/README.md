@@ -5,4 +5,4 @@
 * RandomForestClassifier
 
 ## Usage
-Run 'python train.py --model model_name' to train
+Run `python train.py --model model_name` to train
