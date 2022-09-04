@@ -1,0 +1,5 @@
+*/.ipynb_checkpoints/*
+*/.idea/*
+.ipynb_checkpoints
+__pycache__
+module_5/pytorch_hymenoptera/notebooks/*
